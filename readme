@@ -1,0 +1,16 @@
+Shubhanjali Srivastava
+2021H1030039G
+File List – file.c, makefile, header.h, input.c, team.txt
+Compile- make
+Run - ./exe
+Structure of program – It is a program that reads input from a file. Based on the values, it calculates the score and displays the winner.
+Work done -  
+Calculates the score 
+Displays the score in non-decreasing order of points
+Reads the values from the given txt file
+Work incomplete – 
+It does creates the stadium manager to simulate all the processes.
+File not running – 
+    Input.c is one file which consists of the code to take the command line input from the user and write it on the txt file. This particular code is not working, that why the whole program could not take input dynamically from the user but instead just function for the values give in the txt file.
+If time would have permitted then, I would have implemented the stadium manager functionality which did not work out this time. 
+
